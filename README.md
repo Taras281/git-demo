@@ -10,6 +10,8 @@ Materials in English:
 
 Thanks for your attention.
 ## Russian
+ЭТО ВСТАВКА сделана на сайте GITHUB, НЕКОТОРЫЙ был создан для реализации пошагового руководства в статье [Начало работы с Git: подробный гайд для новичков](https://javarush.ru/groups/posts/2683-nachalo-rabotih-s-git-podrobnihy-gayd-dlja-novichkov).
+Здесь отображены все шаги, которые были проделаны в статье. 
 ЭТА ВСТАВКА СДЕЛАНА В IDE, есь отображены все шаги, которые были проделаны в статье. 
 
 Работаем в  IDE снова работаем
